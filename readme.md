@@ -7,7 +7,7 @@
 
 ชื่อ-สกุล : นาย นสพงษ์ ทิพย์วงค์
 
-GitHub Page URL : 
+GitHub Page URL : https://cpe207-2568.github.io/lab07v2-FIRSTDRZ/
 
 ---
 
